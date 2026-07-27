@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.2.3.0",
+  "minSupportedVersion": "1.0.0.0",
+  "version": "1.4.0.0",
+  "downloadUrl": "https://update.yourcompany.com/MyApp/MyApp_1.2.0.zip",
+  "mandatory": false,
+  "releaseNotes": "① A기능 개선\n② B버그 수정\n③ 속도 개선",
+  "requiredFramework": ".NET Framework 4.8",
+  "fileSize": 12345678,
+  "fileHash": "sha256:8F3A0C9E...ABCD1234"
+}
